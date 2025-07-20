@@ -8,7 +8,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-Welcome to my GitHub! I'm a passionate **full-stack software engineer** with **7.5+ years** of experience building end-to-end web applications. I specialize in **React.js frontend development**, **Ruby on Rails backend systems**, **Python services**, and **GraphQL APIs**. I love creating seamless user experiences while architecting robust, scalable backend solutions.
+Welcome to my GitHub! I'm a passionate **full-stack software engineer** with **8 years** of experience building end-to-end web applications. I specialize in **React.js frontend development**, **Ruby on Rails backend systems**, **Python services**, and **GraphQL APIs**. I love creating seamless user experiences while architecting robust, scalable backend solutions.
 
 ## 🧠 What I Do
 

@@ -23,8 +23,8 @@ Welcome to my GitHub! I'm a passionate **full-stack software engineer** with **8
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Redux, Next.js, Tailwind CSS
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Frameworks & Libraries:** React.js, Redux, Tailwind CSS
 - **Tools:** Webpack, Vite, npm/yarn, Jest, React Testing Library
 
 ### Backend

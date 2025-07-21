@@ -29,11 +29,11 @@ Welcome to my GitHub! I'm a passionate **full-stack software engineer** with **8
 
 ### Backend
 - **Languages:** Ruby, Python, SQL
-- **Frameworks:** Ruby on Rails, GraphQL, REST APIs
+- **Frameworks:** Ruby on Rails, GraphQL, REST APIs, Flask
 - **Databases:** PostgreSQL, MySQL
 
 ### DevOps & Infrastructure
-- **Tools:** Kubernetes, Redis, Kafka, CircleCI, Git
+- **Tools:** Kubernetes, Redis, Kafka, CircleCI, Git, AWS
 - **Architecture:** Microservices, Monoliths, CI/CD, Scalable Systems
 - **Practices:** Agile Methodologies, OOP, TDD, Code Reviews
 
